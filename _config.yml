@@ -1,7 +1,7 @@
 title: "Camera2B"
 description: "Berlin's Photography Adventures"
-baseurl: "/Camera2B" # If hosted on GitHub Pages under a subpath
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-#url: "https://yourdomain.com" # Replace with your actual domain
+baseurl: "/camera2b" # Change if needed
+#url: "https://yourdomain.com" # Update with your actual domain
+theme: jekyll-theme-minimal
+author: "Berlin"
+show_downloads: false
